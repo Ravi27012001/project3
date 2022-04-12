@@ -1,0 +1,147 @@
+.class1{
+    font-size: 40px;
+    font-family:Sans-serif Monospace ;
+     margin-left: 40px;
+}
+@media all and (max-width:800px) {
+    .class{
+        display: block;
+        margin-left: auto;
+    }
+}
+.class3{
+    border: 2px solid red;
+    border-radius: 10px;
+    box-shadow: 10px 10px rgb(245, 244, 244);
+    width: 300px;
+    height: 300px;
+    text-align: center;
+}
+@media all and (max-width:800px) {
+    .class3{ display: block;
+        height: auto;
+        width: auto;
+
+    }
+}
+.class4{
+font-family:Sans-serif;
+font-size: 20px;
+color: rgb(207, 10, 10)  ;
+}
+@media all and (max-width:800px) {
+    .class4{ display: block;
+        height: auto;
+        width: auto;
+
+    }
+}
+
+hr{
+    width: 270px;
+     margin-left: 30px;
+}
+@media all and (max-width:800px) {
+    hr{ display: block;
+        height: auto;
+        width: auto;
+        margin-left: auto;
+    }
+}
+.class5{
+    font-weight: bold;
+    color: red;
+    font-size: 20px;
+    text-decoration: line-through;
+}
+@media all and (max-width:800px) {
+    .class5{ display: block;
+        height: auto;
+        width: auto;
+
+    }
+}
+.class6{
+    font-size: 20px;
+    text-align: center;
+}
+.class8{
+    font-size: 25px;
+    font-weight: bold;
+    color: darkgray;
+    position: relative;
+    left: 120px;
+    bottom: 20px;
+}
+@media all and (max-width:800px) {
+    .class8{ display: block;
+        height: auto;
+        width: auto;
+        align-items: center;
+        text-align: center;
+        position: absolute;
+        left: 47%;
+        bottom: auto;
+
+    }
+}
+.class7{
+    margin-left: 600px;
+    margin-top: 160px;
+}
+@media all and (max-width:800px) {
+    .class7{ display: block;
+        height: auto;
+        width: auto;
+       margin-top: auto;
+       margin-left: auto;
+    }
+}
+.class9{
+    position: relative;
+    right: 280px;
+    bottom: 25px;
+}
+@media all and (max-width:800px) {
+    .class9{ display: block;
+        height: auto;
+        width: auto;
+         position: relative;
+         right: auto;
+         bottom: auto;
+    }
+}
+.class10{
+    position: relative;
+    left: 250px;
+    top: 35px;
+}
+@media all and (max-width:800px) {
+    .class10{ display: block;
+        height: auto;
+        width: auto;
+position: relative;
+left: auto;
+top: auto;
+    }
+}
+.class12{
+    color: red;
+}
+.class16{
+    color: red;
+}
+.class15{
+    position: relative;
+    top: 75px;
+    left: 120px;
+}
+@media all and (max-width:800px) {
+    .class15{ display: block;
+        height: auto;
+        width: auto;
+        position: relative;
+        top: auto;
+        left: auto;
+    }
+}

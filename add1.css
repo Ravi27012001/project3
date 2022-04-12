@@ -1,0 +1,239 @@
+
+h1{
+    display: inline;
+    font-size: 50px;
+font-family:Sans-serif;
+}
+@media all and (max-width:800px) {
+    h1{
+        display: block;
+        height: auto;
+        width: auto;
+    }
+}
+    
+
+.class2{
+    font-size: 50px;
+    color: rgba(76, 96, 112, 0.854);
+
+font-family:Sans-serif Monospace ;
+}
+@media all and (max-width:800px) {
+    .class2{
+        display: block;
+        height: auto;
+        width: auto;
+    }
+}
+    
+.class3{
+    border: 2px solid red;
+    border-radius: 10px;
+    box-shadow: 10px 10px rgb(245, 244, 244);
+    width: 180px;
+    height: 300px;
+    text-align: center;
+}
+@media all and (max-width:800px) {
+    .class3{
+        display: block;
+        height: auto;
+        width: auto;
+    }
+}
+    
+.class4{
+font-family:Sans-serif;
+font-size: 20px;
+color: rgb(207, 10, 10)  ;
+}
+@media all and (max-width:800px) {
+    .class4{
+        display: block;
+        height: auto;
+        width: auto;
+    }
+}
+    
+hr{
+    width: 150px;
+     margin-left: 30px;
+}
+@media all and (max-width:800px) {
+    hr{
+        display: block;
+        margin-left: auto;
+        height: auto;
+        width: auto;
+    }
+}
+    
+.class5{
+    font-weight: bold;
+    color: red;
+    font-size: 20px;
+    text-decoration: line-through;
+}
+@media all and (max-width:800px) {
+    .class5{
+        display: block;
+        height: auto;
+        width: auto;
+    }
+}
+    
+.class6{
+    font-size: 20px;
+    text-align: start;
+}
+@media all and (max-width:800px) {
+    .class6{
+        display:none;
+        height: auto;
+        width: auto;
+    }
+}
+    
+/* input{
+    width: 30px;
+} */
+input[type="checkbox"]{
+    width: 18px;  
+    height: 18px; 
+ }
+ @media all and (max-width:800px) {
+    input{
+        display: block;
+        height: auto;
+        width: auto;
+    }
+}
+    
+
+.class7{
+    display: flex;
+    column-gap: 60px;
+
+}
+@media all and (max-width:800px) {
+    .class7{
+        display: block;
+        height: auto;
+        width: auto;
+    }
+}
+    
+.class9{
+    font-size: 28px;
+    color: rgba(76, 96, 112, 0.854);
+
+    font-family:Sans-serif Monospace ;
+    position: relative;
+    left: 250px;
+}
+@media all and (max-width:800px) {
+    .class9{
+        display: block;
+        left: auto;
+        height: auto;
+        width: auto;
+    }
+}
+    
+.class8{
+    display:inline-block;
+    /* width: 28px; */
+    /* height: 35px; */
+    color:white;
+    background-color: rgb(208, 28, 28);
+    border-radius:40px;
+    /* font-size: 35px; */
+    font-weight: bolder;
+     
+}
+@media all and (max-width:800px) {
+    .class8{
+        display: block;
+        height: auto;
+        width: auto;
+    }
+}
+    
+.class1{
+  margin-left: 450px;
+  margin-top: 200px;
+}
+@media all and (max-width:800px) {
+    .class1{
+        margin-left: auto;
+        margin-top: auto;
+        display: block;
+        height: auto;
+        width: auto;
+    }
+}
+    
+
+.classblur{
+    filter: blur(8px);
+}
+.class10{
+    height: 150px;
+    width: 300px;
+    border: 2px solid red;
+    border-radius: 20px;
+    font-size: 20px;
+    text-align: center;
+    position: relative;
+    left: 630px;
+    bottom: 250px;
+
+}
+@media all and (max-width:800px) {
+    .class10{
+        
+        position: absolute;
+        margin-left: 20vw;
+        margin-right: 50%;
+        margin-top: auto;
+        margin-bottom: auto;
+        text-align: center;
+        top: 40%;
+        left: auto;
+        bottom: auto;
+        align-self: center;
+        display: block;
+        height: auto;
+        width: auto;
+    }
+}
+    
+.class11{
+    margin-top: 25px;
+    color: rgb(246, 16, 16);
+}
+@media all and (max-width:800px) {
+    .class11{
+        display: block;
+        margin-top: auto;
+        height: auto;
+        width: auto;
+    }
+}
+    
+button{
+    color: white;
+    width: 75px;
+    height: 30px;
+    background-color: rgba(247, 9, 5, 0.963);
+    border-radius: 20px;
+}
+@media all and (max-width:700px) {
+    button{
+        display: block;
+        height: auto;
+        width: auto;
+    }
+}
+    

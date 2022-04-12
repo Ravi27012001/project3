@@ -1,0 +1,172 @@
+.class1{
+    font-size: 40px;
+    font-family:Sans-serif Monospace ;
+     margin-left: 40px;
+}
+@media all and (max-width:700px) {
+    .class1{
+        display: block;
+        margin-left: auto;
+    }
+}
+.class3{
+    border: 2px solid red;
+    border-radius: 10px;
+    box-shadow: 10px 10px rgb(245, 244, 244);
+    width: 300px;
+    height: 300px;
+    text-align: center;
+}
+@media all and (max-width:800px) {
+    .class3{
+        display: block;
+        height: auto;
+        width: auto;
+        text-align: center;
+    }
+}
+.class4{
+font-family:Sans-serif;
+font-size: 20px;
+color: rgb(207, 10, 10)  ;
+}
+@media all and (max-width:800px) {
+    .class4{
+        display: block;
+        height: auto;
+        width: auto;
+    }
+}
+hr{
+    width: 270px;
+     margin-left: 30px;
+}
+@media all and (max-width:800px) {
+    hr{
+        display: block;
+        height: auto;
+        width: auto;
+        margin-left: auto;
+    }
+}
+.class5{
+    font-weight: bold;
+    color: red;
+    font-size: 20px;
+    text-decoration: line-through;
+}
+.class6{
+    font-size: 20px;
+    text-align: center;
+}
+.class8{
+    font-size: 25px;
+    font-weight: bold;
+    color: darkgray;
+    position: relative;
+    left: 120px;
+    bottom: 20px;
+}
+@media all and (max-width:800px) {
+    .class8{
+        display: block;
+        height: auto;
+        width: auto;
+        position: relative;
+        left: auto;
+        bottom: auto;
+    }
+}
+.class7{
+    margin-left: 600px;
+    margin-top: 160px;
+}
+@media all and (max-width:800px) {
+    .class7{
+        display: block;
+        height: auto;
+        width: auto;
+        margin-top: auto;
+        margin-left: auto;
+    }
+}
+.class9{
+    position: relative;
+    right: 280px;
+    bottom: 25px;
+}
+@media all and (max-width:800px) {
+    .class9{
+        display: block;
+        height: auto;
+        position: relative;
+        right: auto;
+        bottom: auto;
+    }
+}
+.class10{
+    position: relative;
+    left: 250px;
+    top: 35px;
+}
+@media all and (max-width:800px) {
+    .class10{
+        display: block;
+        height: auto;
+        position: relative;
+        right: auto;
+        bottom: auto;
+    }
+}
+.classblur{
+    filter: blur(8px);
+}
+.class13{
+    height: 150px;
+    width: 300px;
+    border: 2px solid red;
+    border-radius: 20px;
+    font-size: 20px;
+    text-align: center;
+    position: relative;
+    left: 630px;
+    bottom: 250px;
+
+}
+@media all and (max-width:800px) {
+.class13{
+        display: inline-block;
+        height: auto;
+        width: auto;
+        /* text-align: center; */
+        position:relative;
+        left:25vw ;
+        bottom: auto;
+    }
+}
+
+.class11{
+    margin-top: 25px;
+    color: rgb(246, 16, 16);
+}
+@media all and (max-width:800px) {
+    .class11{
+        display: block;
+        height: auto;
+        margin-top: auto;
+    }
+}
+button{
+    color: white;
+    width: 75px;
+    height: 30px;
+    background-color: rgba(247, 9, 5, 0.963);
+    border-radius: 20px;
+}
+@media all and (max-width:800px) {
+    button{
+        display: block;
+        height: auto;
+         
+    }
+}
